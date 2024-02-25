@@ -1,0 +1,8 @@
+{
+  "name": "@marcisbee/lex",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./src/lex.ts",
+    "./greet": "./src/greet.ts"
+  }
+}
